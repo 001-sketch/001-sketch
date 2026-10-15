@@ -4,8 +4,7 @@
 </em></p>
 
 [![Linkedin: Mike C](https://img.shields.io/badge/mike-c-71872a270
-)-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-c-71872a270/)](https://www.linkedin.com/in/mike-c-71872a270)
-[![GitHub lime-001-sketch](https://img.shields.io/github/followers/001-sketch?label=follow&style=social)](https://github.com/001-sketch)
+)[![GitHub lime-001-sketch](https://img.shields.io/github/followers/001-sketch?label=follow&style=social)](https://github.com/001-sketch)
 
 
 ### A little more about me...  

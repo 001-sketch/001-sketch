@@ -3,7 +3,8 @@
 <p><em>Software Enginner, Web Designer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: Mike C](https://img.shields.io/badge/-mike-c-71872a270-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-c-71872a270/)](https://www.linkedin.com/in/mike-c-71872a270)
+[![Linkedin: Mike C](https://img.shields.io/badge/mike-c-71872a270
+)-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-c-71872a270/)](https://www.linkedin.com/in/mike-c-71872a270)
 [![GitHub lime-001-sketch](https://img.shields.io/github/followers/001-sketch?label=follow&style=social)](https://github.com/001-sketch)
 
 

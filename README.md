@@ -1,10 +1,9 @@
-<h2> Hi there 👋, I'm Mike Chege!™ <img src="https://media.giphy.com/media/rS6hNEBJYqy3Tfo9yS/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner, Web Designer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p>
+<h2> Hi there 👋, I'm Mike Chege!™</h2>
+<p>Software Engineer, Web Designer
+</p>
 
-[![Linkedin: Mike C](https://img.shields.io/badge/mike-c-71872a270
-)[![GitHub lime-001-sketch](https://img.shields.io/github/followers/001-sketch?label=follow&style=social)](https://github.com/001-sketch)
+![Linkedin: Mike C](https://img.shields.io/badge/mike-c-71872a270?logo=linkedin&logoColor=blue&color=blue
+) [![GitHub lime-001-sketch](https://img.shields.io/github/followers/001-sketch?label=follow&style=social)](https://github.com/001-sketch)
 
 
 ### A little more about me...  
@@ -24,4 +23,4 @@ const Mike = {
 }
 ```
 
-<img src="https://media.giphy.com/media/rS6hNEBJYqy3Tfo9yS/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
